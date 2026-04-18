@@ -1,0 +1,13 @@
+{
+  "name": "reatang-skills",
+  "owner": {
+    "name": "reatang",
+    "email": "tangtang1251@qq.com"
+  },
+  "metadata": {
+    "description": "个人技能市场 - OpenClaw/Claude Code 插件集合",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": []
+}

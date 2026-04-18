@@ -9,5 +9,17 @@
     "version": "1.0.0",
     "pluginRoot": "./plugins"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "shannon-thinking",
+      "source": "shannon-thinking",
+      "description": "Claude Shannon's creative thinking methodology for problem-solving and ideation",
+      "version": "1.0.0",
+      "author": {
+        "name": "reatang"
+      },
+      "keywords": ["creativity", "problem-solving", "thinking", "brainstorm"],
+      "category": "thinking-tools"
+    }
+  ]
 }
